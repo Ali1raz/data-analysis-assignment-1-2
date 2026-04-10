@@ -2,7 +2,7 @@
 
 [![Ask DeepWiki about this](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ali1raz/data-analysis-assignment-1-2)
 
-R-based analysis and visualization of the [Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) (1,025 records, 14 attributes) using `tidyverse` and `ggplot2`.
+R-based analysis and visualization of the [Heart Disease dataset (Kaggle)](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download&select=heart.csv) (1,025 records, 14 attributes) using `tidyverse` and `ggplot2`.
 
 ## Prerequisites
 
