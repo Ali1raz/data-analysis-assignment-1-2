@@ -1,0 +1,26 @@
+# R session files
+.RData
+.Rhistory
+.Rprofile
+
+# R environment (may contain API keys / tokens)
+.Renviron
+
+# OAuth tokens
+.httr-oauth
+
+# Environment / secret files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# renv library (if used)
+renv/library/
+renv/staging/
